@@ -56,31 +56,6 @@ Raw data is available in the `/data` directory as `.csv` files.
 
 ---
 
-## Repo Structure
-
-```
-stock-market-chaos-theory/
-├── README.md
-├── paper/
-│   └── chaos_theory_paper.pdf        # Full research paper
-├── code/
-│   ├── amazon_monte_carlo.R          # Monte Carlo simulation for AMZN
-│   └── msft_monte_carlo.R            # Monte Carlo simulation for MSFT
-├── data/
-│   ├── AMZN_2022_2023.csv            # Amazon adjusted close prices
-│   └── MSFT_2022_2023.csv            # Microsoft adjusted close prices
-└── figures/
-    ├── msft_regression.png
-    ├── amzn_regression.png
-    ├── henon_msft.png
-    ├── henon_amzn.png
-    ├── lyapunov_amzn.png
-    ├── monte_carlo_msft.png
-    └── monte_carlo_amzn.png
-```
-
----
-
 ## How to Run
 
 **Requirements:** R (≥ 4.0)  
