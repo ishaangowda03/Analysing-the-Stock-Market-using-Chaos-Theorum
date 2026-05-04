@@ -1,6 +1,6 @@
 # Modeling the Stock Market Using Chaos Theory
 
-An independent quantitative finance project exploring whether chaos theory can be used to model and predict stock price movements. The analysis applies mathematical frameworks from nonlinear dynamics — including the Hénon map, Lyapunov exponents, fractal analysis, and Monte Carlo simulation — to real market data for Microsoft (MSFT) and Amazon (AMZN).
+An independent quantitative finance project exploring whether chaos theory can be used to model and predict stock price movements. The analysis applies mathematical frameworks from nonlinear dynamics, including the Hénon map, Lyapunov exponents, fractal analysis, and Monte Carlo simulation, to real market data for Microsoft (MSFT) and Amazon (AMZN).
 
 ---
 
